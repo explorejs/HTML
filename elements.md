@@ -3,10 +3,10 @@
 ### Metadata
 
 ```javascript
-<head> </head>
-<base></base>
-<link></link>
-<meta></meta>
+<head></head>
+<base/>
+<link/>
+<meta/>
 <style></style>
 <title></title>
 ```
@@ -46,7 +46,7 @@
 <dt></dt>
 <figcaption></figcaption>
 <figure></figure>
-<hr></hr>
+<hr/>
 <li></li>
 <main></main>
 <ol></ol>
@@ -63,7 +63,7 @@
 <b></b>
 <bdi></bdi>
 <bdo></bdo>
-<br></br>
+<br/>
 <cite></cite>
 <code></code>
 <data></data>
@@ -95,11 +95,11 @@
 ### Images / Multimedia
 
 ```javascript
-<area></area>
+<area/>
 <audio></audio>
-<img></img>
+<img/>
 <map></map>
-<track></track>
+<track/>
 <video></video>
 
 ```
@@ -107,12 +107,12 @@
 ### Embedded Content
 
 ```javascript
-<embed></embed>
-<iframe></iframe>
+<embed/>
+<iframe/>
 <object></object>
-<param></param>
+<param/>
 <picture></picture>
-<source></source>
+<source/>
 ```
 
 ### Scripting
@@ -149,10 +149,10 @@
 
 ```javascript
 <button></button>
-<datalist> </datalist>
+<datalist></datalist>
 <fieldset></fieldset>
 <form></form>
-<input>	</input>
+<input/>
 <label></label>
 <legend></legen>
 <meter></mete>
